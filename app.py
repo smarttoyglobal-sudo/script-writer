@@ -9,9 +9,7 @@ st.set_page_config(
 )
 
 # 시스템 프롬프트 (외부에서 볼 수 없음)
-SYSTEM_PROMPT =  
-
- """
+SYSTEM_PROMPT =   """
 # 📺 감동/휴먼 콘텐츠 지침서 v2.0
 
 ## 🎯 핵심 목표
